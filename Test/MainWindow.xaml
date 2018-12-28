@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="Coment master&#xD;&#xA;" HorizontalAlignment="Left" Margin="220,43,0,0" VerticalAlignment="Top" Width="344" Height="105"/>
+        <Label Content="opcion 1&#xD;&#xA;opcion 1&#xD;&#xA;" HorizontalAlignment="Left" Margin="220,43,0,0" VerticalAlignment="Top" Width="344" Height="105"/>
 
     </Grid>
 </Window>
